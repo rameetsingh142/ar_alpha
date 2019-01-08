@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="qiBoXXri5" size="1.000000 1.000000" />
+    <ImageTarget name="9f99b4f516ad56d73ea9e51212dd4b2c" size="1.000000 1.338028" />
+    <ImageTarget name="83847e0419ca9f97fe0835781c4068f2" size="1.000000 0.664444" />
+    <ImageTarget name="cal-0814-commavi20_SB_PM" size="1.000000 0.364000" />
+  </Tracking>
+</QCARConfig>
